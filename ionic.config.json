@@ -1,0 +1,7 @@
+{
+  "name": "vue3-slides",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
